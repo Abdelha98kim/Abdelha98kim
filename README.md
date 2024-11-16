@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋 My name is Abdelhakim Baalla and I'm a Full Stack Developer, from Morocco</h2>
-<div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmtibXc1YTZndHh5a2FveGNidGV0bjFiMmxuZXliZWo4bjJnMXUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif"  />
 </div>
 # 💫 About Me:
